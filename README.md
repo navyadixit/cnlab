@@ -5,3 +5,4 @@ Port: TCP 5000.
 Client output: timestamp,rtt_ms,status, with timestamp as an epoch time.
 Attacker output: ATTACK START t=<epoch> and FIRST FAILURE t=<epoch>.
 Controller log: events.csv with columns epoch,time,event,ip,detail.
+Virtual Box
