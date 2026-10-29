@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+events.csv
+results/*
+!results/.gitkeep
